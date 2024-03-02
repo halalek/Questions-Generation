@@ -22,10 +22,10 @@ The issue of question generation using deep learning is a relatively low-profile
    In some cases, a combination of both methods may be used together. Each of these methods has its advantages and disadvantages
 
 ### Dataset :
-#### ARCD (Arabic Reading Comprehension Dataset):
+#### 1-ARCD (Arabic Reading Comprehension Dataset):
 A collection of data in Arabic consisting of 1,395 questions on 465 items selected from 155 articles on the Arabic Wikipedia.
 
-#### TyDi QA (Typologically Diverse Question Answering) :
+#### 2-TyDi QA (Typologically Diverse Question Answering) :
 In all of the other data collections mentioned here (including SQuAD), a person is asked to read a passage and then ask it a question (that is, the person chooses in his mind in advance a sentence as an answer and then poses a question to it).
 QA TyDi is compiled in the opposite way: when a person types a question into a Google search box, Google then suggests a Wikipedia article and asks them to select the answer to the question from the article (i.e. the person does not already know the answer, so the questions in this dataset are often more natural and spontaneous )
 
